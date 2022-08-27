@@ -3,7 +3,6 @@ let peliculas = [
   { numero: 2, genero: "humor", titulo: "risas" },
   { numero: 3, genero: "Suspenso", titulo: "No corras" },
   { numero: 4, genero: "Drama", titulo: "Amor mio" },
-  { numero: 5, genero: "Accion", titulo: "rapido y furioso" },
 ];
 
 let wrapMovies = document.getElementById("wrapMovies");
